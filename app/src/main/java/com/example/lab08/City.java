@@ -4,6 +4,8 @@ public class City {
     private String city;
     private String province;
 
+    //this is a string
+
     public City(String city, String province){
         this.city = city;
         this.province = province;
